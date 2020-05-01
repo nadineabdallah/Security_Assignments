@@ -1,4 +1,4 @@
-## Security_Assignment
+## Assignment2
 
 ### This program supports encryption and decryption using shift, affine, and
 vigenere cipher
